@@ -21,6 +21,5 @@ sekä näiden yhteyksien kautta.
 - XML on enemmän tarkoitettu tietojen siirtämiseen eikä näyttämiseen
 
 <br>
-<br>
 
 [GitHub Profiili](https://github.com/LePaZuKi)
