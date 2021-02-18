@@ -22,4 +22,5 @@ sekä näiden yhteyksien kautta.
 
 <br>
 <br>
+
 [GitHub Profiili](https://github.com/LePaZuKi)
