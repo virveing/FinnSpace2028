@@ -1,5 +1,6 @@
 .md tiedoston luominen
 
+muokattu:
 REST 
 Käytetään informaation siirtämiseen http rajapinnan kautta peruskomentoja käyttäen käyttäjän ja serverin välillä (?)
 
@@ -13,5 +14,8 @@ Sama homa kuin REST:ssä mutta komennot ja niiden toiminnallisuudet ovat hieman 
   - DELETE 
 
 JSON 
-Formaatti millä tietoa liikutetaan REST:ssä, XML
+Olio-pohjainen formaatti millä tietoa liikutetaan REST:ssä
+XLM
+
+
 
