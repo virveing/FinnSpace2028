@@ -1,3 +1,4 @@
+
 <h1>OSA 2</h1>
 <h1>**En voi hyvin!**
 
@@ -34,3 +35,6 @@ osajoukkoon käyttäen avain-arvo-pareja kuvaamaan viestissä kulkevaa tietoa. J
 XML eli Extensible Markup Language on yksinkertainen ja skaalautuva tekstiformaatti.
 sitä käytetään myös internetin välityksellä tapahtuvan tiedonvaihtoformaatti . XML:n avulla voidaan siirtä mediaformaatteja.
 Tämä taas luo enemmänkin kysymyksen siitä että mitä tekijä haluaa asiohinsa tuoda. molemmat ovat hyvä vaihtoehto rajapinnoissa, mutta kumpkin formaatti sopii omiin asioihinsa.
+=======
+
+
