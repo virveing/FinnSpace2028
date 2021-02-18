@@ -18,11 +18,4 @@ sekä näiden yhteyksien kautta.
 - JSON on yksinkertainen tiedostomuoto tiedonvälitykseen.
 - XML tarvii parserin kun taas JSON ei tarvi
 
-
-#### JSON rakenne:
-![JSON rakenne](/img/json_rakenne.png)
-
-#### XML rakenne:
-![XML rakenne](/img/xml_rakenne.png)
-
 [GitHub Profiili](https://github.com/LePaZuKi)
