@@ -10,6 +10,7 @@
 
 ### JSON on avoin tiedostomuoto tiedon siirtämiseen tietokannassa.
 #### Tässä on pieni vertailu JSON:n ja XML:n välillä
+
 JSON | XML
 ----------- | -----------
 Datatyypit | Vain string
