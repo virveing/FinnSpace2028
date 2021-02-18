@@ -19,11 +19,10 @@ sekä näiden yhteyksien kautta.
 - XML tarvii parserin kun taas JSON ei tarvi
 
 
-JSON rakenne:
+##### JSON rakenne:
 ![JSON rakenne](/img/json_rakenne.png)
-Format: ![Alt Text](url)
 
-XML rakenne:
+##### XML rakenne:
 ![XML rakenne](/img/xml_rakenne.png)
 
 [Profiili](https://github.com/LePaZuKi)
