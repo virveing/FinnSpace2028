@@ -25,4 +25,4 @@ sekä näiden yhteyksien kautta.
 #### XML rakenne:
 ![XML rakenne](/img/xml_rakenne.png)
 
-[Profiili](https://github.com/LePaZuKi)
+[GitHub Profiili](https://github.com/LePaZuKi)
