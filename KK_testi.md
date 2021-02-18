@@ -15,7 +15,6 @@ Sama homa kuin REST:ssä mutta komennot ja niiden toiminnallisuudet ovat hieman 
 
 JSON 
 Olio-pohjainen formaatti millä tietoa liikutetaan REST:ssä
-XLM
 
 
-
+[KIMMO KANSTE](https://github.com/kkanste)
