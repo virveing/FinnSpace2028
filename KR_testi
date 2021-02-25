@@ -1,0 +1,26 @@
+#_REST_ 
+Representational state transfer on tilaa tallentamaton HTTP-protokollaan perustuva arkkitehtuurimalli sovellusrajapintojen tekemiseen. 
+Tyypillisesti REST API tarjoaa tiedon JSON (JavaScript Object Notation)- tai XML-formaatissa.  
+
+#_CRUD_
+Erilaisten tietojen tallentaminen, niiden hakeminen ja niiden muuttaminen sekä niiden poistaminen on helpompaa, mikäli tiedot tallennetaan hyvin suunniteltuihin tietokantoihin. 
+Yleisiä tietokantamalleja ovat mm. relaatio- ja oliotietokannat.
+
+Tietotojenkäsittelyssä käytetään em. tiedonhallinnasta ilmausta CRUD, joka tarkoittaa:
+* C - create, tiedon luominen ja sen tallentaminen
+* R - read, tiedon lukeminen
+* U - update, tiedon päivittäminen eli muuttaminen
+* D - delete, tiedon poistaminen.
+Periaate on selkeä: yksi tieto säilytetään yhdessä paikassa, jolloin kaikki muutokset pysyvät hallittuina.
+
+#_JSON_
+JSON (lyhenne sanoista JavaScript Object Notation) on yksinkertainen avoimen standardin tiedostomuoto tiedonvälitykseen. 
+Nimestään ja JavaScript-perustastaan huolimatta JSON on JavaScriptistä riippumaton. 
+JSONin Internet media type on application/json ja sen tiedostopääte .json.
+
+_JSON_: _J_ ava _S_ -komentosarja _O_ bject _N_ otation .
+_JSON_ on syntaksi tietojen tallentamiseen ja vaihtamiseen.
+_JSON_ on teksti, kirjoitettu JavaScript-objektimerkinnällä.
+
+#_Linkki_
+[GitHub](https://github.com/Kai-Ronkainen)
