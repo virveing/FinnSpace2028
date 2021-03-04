@@ -12,5 +12,5 @@ JSON (lyhenne sanoista JavaScript Object Notation) on yksinkertainen avoimen sta
 XML (Extensible Markup Language) on merkintäkielien standardi, joka määrittää tietojen merkintämuodon loogisella rakenteella. 
 XML-kieliä käytetään sekä formaattina tiedonvälitykseen järjestelmien välillä että tiedostomuotona dokumenttien tallentamiseen.
 
-<a>https://github.com/Jaakko22/hello-world</a>
+[GitHub](https://github.com/Jaakko22)
 
